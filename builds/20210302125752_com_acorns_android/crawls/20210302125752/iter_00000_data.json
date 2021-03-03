@@ -1,0 +1,14 @@
+{
+    "desiredCaps": {
+        "app": "/Users/bot/test_ai/apps/com_acorns_android/builds/20210302125752_com_acorns_android/app/com.acorns.android.apk", 
+        "appPackage": "com.acorns.android", 
+        "autoAcceptAlerts": true, 
+        "deviceName": "Android Emulator", 
+        "newCommandTimeout": 100, 
+        "platformName": "Android", 
+        "platformVersion": "7.0"
+    }, 
+    "deviceFriendlyName": "Nexus 5", 
+    "hostPlatformRelease": "19.6.0", 
+    "hostPlatformSystem": "Darwin"
+}

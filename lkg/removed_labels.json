@@ -1,0 +1,17 @@
+{
+    "elems": {
+        "M2QxMGQ3MmJiYzk2NTBkNDc1ODA4YzIxNTEyYzc4NGI=\n": [
+            "btn_back_account"
+        ], 
+        "MWY5ZTRkMzFmMjljYjExZWYzYjlmY2NmZWI2ZTgwM2E=\n": [
+            "inp_password"
+        ], 
+        "ZTFlNmUxNWNhODFlOGVhYWVmZGU0YzZmOTk4ZTc0YTI=\n": [
+            "inp_email"
+        ], 
+        "ZWM4ZDYxZjkzOWQxM2ExNzBhMjMzYjg1ZTE2OWEyNjk=\n": [
+            "btn_back_account"
+        ]
+    }, 
+    "screens": {}
+}

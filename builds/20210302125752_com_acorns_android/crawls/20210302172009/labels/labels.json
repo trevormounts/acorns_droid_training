@@ -1,0 +1,16 @@
+{
+    "elems": {
+        "iter_00000_step_00001_43_android.widget.ImageView.png": [], 
+        "iter_00000_step_00001_76_android.widget.ImageView.png": [
+            "btn_account_settings"
+        ], 
+        "iter_00000_step_00002_12_android.widget.FrameLayout.png": [], 
+        "iter_00000_step_00002_25_android.widget.TextView.png": [
+            "btn_my_settings"
+        ], 
+        "iter_00000_step_00002_9_android.widget.ImageView.png": [
+            "btn_exit_settings"
+        ]
+    }, 
+    "screens": {}
+}

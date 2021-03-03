@@ -1,0 +1,2895 @@
+{
+    "elems": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_0_android.widget.FrameLayout.png": "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_10_android.widget.FrameLayout.png": "iter_00000_step_00001_10_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_11_android.widget.ImageView.png": "iter_00000_step_00001_11_android.widget.ImageView.png", 
+            "iter_00000_step_00000_12_android.widget.TextView.png": "iter_00000_step_00001_12_android.widget.TextView.png", 
+            "iter_00000_step_00000_13_android.widget.TextView.png": "iter_00000_step_00001_13_android.widget.TextView.png", 
+            "iter_00000_step_00000_14_android.widget.Button.png": "iter_00000_step_00001_14_android.widget.Button.png", 
+            "iter_00000_step_00000_15_android.widget.TextView.png": "iter_00000_step_00001_15_android.widget.TextView.png", 
+            "iter_00000_step_00000_1_android.widget.LinearLayout.png": "iter_00000_step_00001_6_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_2_android.widget.FrameLayout.png": "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_3_android.widget.LinearLayout.png": "iter_00000_step_00001_6_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_4_android.widget.FrameLayout.png": "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_5_android.widget.FrameLayout.png": "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_6_android.widget.LinearLayout.png": "iter_00000_step_00001_6_android.widget.LinearLayout.png", 
+            "iter_00000_step_00000_7_android.widget.FrameLayout.png": "iter_00000_step_00001_7_android.widget.FrameLayout.png", 
+            "iter_00000_step_00000_8_android.widget.TextView.png": "iter_00000_step_00001_8_android.widget.TextView.png", 
+            "iter_00000_step_00000_9_android.widget.TextView.png": "iter_00000_step_00001_9_android.widget.TextView.png", 
+            "iter_00000_step_00001_0_android.widget.FrameLayout.png": "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00001_10_android.widget.FrameLayout.png": "iter_00000_step_00001_10_android.widget.FrameLayout.png", 
+            "iter_00000_step_00001_11_android.widget.ImageView.png": "iter_00000_step_00001_11_android.widget.ImageView.png", 
+            "iter_00000_step_00001_12_android.widget.TextView.png": "iter_00000_step_00001_12_android.widget.TextView.png", 
+            "iter_00000_step_00001_13_android.widget.TextView.png": "iter_00000_step_00001_13_android.widget.TextView.png", 
+            "iter_00000_step_00001_14_android.widget.Button.png": "iter_00000_step_00001_14_android.widget.Button.png", 
+            "iter_00000_step_00001_15_android.widget.TextView.png": "iter_00000_step_00001_15_android.widget.TextView.png", 
+            "iter_00000_step_00001_1_android.widget.LinearLayout.png": "iter_00000_step_00001_6_android.widget.LinearLayout.png", 
+            "iter_00000_step_00001_2_android.widget.FrameLayout.png": "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00001_3_android.widget.LinearLayout.png": "iter_00000_step_00001_6_android.widget.LinearLayout.png", 
+            "iter_00000_step_00001_4_android.widget.FrameLayout.png": "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00001_5_android.widget.FrameLayout.png": "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00001_6_android.widget.LinearLayout.png": "iter_00000_step_00001_6_android.widget.LinearLayout.png", 
+            "iter_00000_step_00001_7_android.widget.FrameLayout.png": "iter_00000_step_00001_7_android.widget.FrameLayout.png", 
+            "iter_00000_step_00001_8_android.widget.TextView.png": "iter_00000_step_00001_8_android.widget.TextView.png", 
+            "iter_00000_step_00001_9_android.widget.TextView.png": "iter_00000_step_00001_9_android.widget.TextView.png", 
+            "iter_00000_step_00002_0_android.widget.FrameLayout.png": "iter_00000_step_00003_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00002_10_android.widget.FrameLayout.png": "iter_00000_step_00003_10_android.widget.FrameLayout.png", 
+            "iter_00000_step_00002_11_android.widget.LinearLayout.png": "iter_00000_step_00003_11_android.widget.LinearLayout.png", 
+            "iter_00000_step_00002_12_android.widget.ImageView.png": "iter_00000_step_00006_12_android.widget.ImageView.png", 
+            "iter_00000_step_00002_13_android.widget.TextView.png": "iter_00000_step_00006_13_android.widget.TextView.png", 
+            "iter_00000_step_00002_14_android.widget.LinearLayout.png": "iter_00000_step_00003_14_android.widget.LinearLayout.png", 
+            "iter_00000_step_00002_15_android.widget.FrameLayout.png": "iter_00000_step_00005_15_android.widget.FrameLayout.png", 
+            "iter_00000_step_00002_16_android.widget.RelativeLayout.png": "iter_00000_step_00005_16_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00002_17_android.widget.EditText.png": "iter_00000_step_00005_18_android.widget.EditText.png", 
+            "iter_00000_step_00002_18_android.widget.EditText.png": "iter_00000_step_00005_18_android.widget.EditText.png", 
+            "iter_00000_step_00002_19_android.widget.TextView.png": "iter_00000_step_00006_19_android.widget.TextView.png", 
+            "iter_00000_step_00002_1_android.widget.LinearLayout.png": "iter_00000_step_00003_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00002_20_android.view.View.png": "iter_00000_step_00006_20_android.view.View.png", 
+            "iter_00000_step_00002_21_android.widget.RelativeLayout.png": "iter_00000_step_00003_21_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00002_22_android.widget.FrameLayout.png": "iter_00000_step_00003_22_android.widget.FrameLayout.png", 
+            "iter_00000_step_00002_23_android.widget.RelativeLayout.png": "iter_00000_step_00003_23_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00002_24_android.widget.EditText.png": "iter_00000_step_00003_24_android.widget.EditText.png", 
+            "iter_00000_step_00002_25_android.widget.TextView.png": "iter_00000_step_00006_25_android.widget.TextView.png", 
+            "iter_00000_step_00002_26_android.widget.TextView.png": "iter_00000_step_00006_26_android.widget.TextView.png", 
+            "iter_00000_step_00002_27_android.view.View.png": "iter_00000_step_00006_27_android.view.View.png", 
+            "iter_00000_step_00002_28_android.widget.Button.png": "iter_00000_step_00005_28_android.widget.Button.png", 
+            "iter_00000_step_00002_29_android.widget.Button.png": "iter_00000_step_00006_29_android.widget.Button.png", 
+            "iter_00000_step_00002_2_android.widget.FrameLayout.png": "iter_00000_step_00003_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00002_30_android.widget.TextView.png": "iter_00000_step_00006_30_android.widget.TextView.png", 
+            "iter_00000_step_00002_31_android.widget.ImageView.png": "iter_00000_step_00006_31_android.widget.ImageView.png", 
+            "iter_00000_step_00002_32_android.widget.ImageView.png": "iter_00000_step_00003_32_android.widget.ImageView.png", 
+            "iter_00000_step_00002_3_android.widget.LinearLayout.png": "iter_00000_step_00003_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00002_4_android.widget.FrameLayout.png": "iter_00000_step_00003_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00002_5_android.widget.RelativeLayout.png": "iter_00000_step_00003_5_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00002_6_android.widget.RelativeLayout.png": "iter_00000_step_00003_6_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00002_7_android.widget.FrameLayout.png": "iter_00000_step_00006_7_android.widget.FrameLayout.png", 
+            "iter_00000_step_00002_8_android.widget.TextView.png": "iter_00000_step_00006_8_android.widget.TextView.png", 
+            "iter_00000_step_00002_9_android.widget.ScrollView.png": "iter_00000_step_00003_9_android.widget.ScrollView.png", 
+            "iter_00000_step_00003_0_android.widget.FrameLayout.png": "iter_00000_step_00003_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_10_android.widget.FrameLayout.png": "iter_00000_step_00003_10_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_11_android.widget.LinearLayout.png": "iter_00000_step_00003_11_android.widget.LinearLayout.png", 
+            "iter_00000_step_00003_12_android.widget.ImageView.png": "iter_00000_step_00006_12_android.widget.ImageView.png", 
+            "iter_00000_step_00003_13_android.widget.TextView.png": "iter_00000_step_00006_13_android.widget.TextView.png", 
+            "iter_00000_step_00003_14_android.widget.LinearLayout.png": "iter_00000_step_00003_14_android.widget.LinearLayout.png", 
+            "iter_00000_step_00003_15_android.widget.FrameLayout.png": "iter_00000_step_00005_15_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_16_android.widget.RelativeLayout.png": "iter_00000_step_00005_16_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00003_17_android.widget.EditText.png": "iter_00000_step_00005_18_android.widget.EditText.png", 
+            "iter_00000_step_00003_18_android.widget.EditText.png": "iter_00000_step_00005_18_android.widget.EditText.png", 
+            "iter_00000_step_00003_19_android.widget.TextView.png": "iter_00000_step_00006_19_android.widget.TextView.png", 
+            "iter_00000_step_00003_1_android.widget.LinearLayout.png": "iter_00000_step_00003_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00003_20_android.view.View.png": "iter_00000_step_00006_20_android.view.View.png", 
+            "iter_00000_step_00003_21_android.widget.RelativeLayout.png": "iter_00000_step_00003_21_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00003_22_android.widget.FrameLayout.png": "iter_00000_step_00003_22_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_23_android.widget.RelativeLayout.png": "iter_00000_step_00003_23_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00003_24_android.widget.EditText.png": "iter_00000_step_00003_24_android.widget.EditText.png", 
+            "iter_00000_step_00003_25_android.widget.TextView.png": "iter_00000_step_00006_25_android.widget.TextView.png", 
+            "iter_00000_step_00003_26_android.widget.TextView.png": "iter_00000_step_00006_26_android.widget.TextView.png", 
+            "iter_00000_step_00003_27_android.view.View.png": "iter_00000_step_00006_27_android.view.View.png", 
+            "iter_00000_step_00003_28_android.widget.Button.png": "iter_00000_step_00005_28_android.widget.Button.png", 
+            "iter_00000_step_00003_29_android.widget.Button.png": "iter_00000_step_00006_29_android.widget.Button.png", 
+            "iter_00000_step_00003_2_android.widget.FrameLayout.png": "iter_00000_step_00003_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_30_android.widget.TextView.png": "iter_00000_step_00006_30_android.widget.TextView.png", 
+            "iter_00000_step_00003_31_android.widget.ImageView.png": "iter_00000_step_00006_31_android.widget.ImageView.png", 
+            "iter_00000_step_00003_32_android.widget.ImageView.png": "iter_00000_step_00003_32_android.widget.ImageView.png", 
+            "iter_00000_step_00003_3_android.widget.LinearLayout.png": "iter_00000_step_00003_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00003_4_android.widget.FrameLayout.png": "iter_00000_step_00003_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_5_android.widget.RelativeLayout.png": "iter_00000_step_00003_5_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00003_6_android.widget.RelativeLayout.png": "iter_00000_step_00003_6_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00003_7_android.widget.FrameLayout.png": "iter_00000_step_00006_7_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_8_android.widget.TextView.png": "iter_00000_step_00006_8_android.widget.TextView.png", 
+            "iter_00000_step_00003_9_android.widget.ScrollView.png": "iter_00000_step_00003_9_android.widget.ScrollView.png", 
+            "iter_00000_step_00004_0_android.widget.FrameLayout.png": "iter_00000_step_00005_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_10_android.widget.FrameLayout.png": "iter_00000_step_00005_10_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_11_android.widget.LinearLayout.png": "iter_00000_step_00005_11_android.widget.LinearLayout.png", 
+            "iter_00000_step_00004_12_android.widget.ImageView.png": "iter_00000_step_00006_12_android.widget.ImageView.png", 
+            "iter_00000_step_00004_13_android.widget.TextView.png": "iter_00000_step_00006_13_android.widget.TextView.png", 
+            "iter_00000_step_00004_14_android.widget.LinearLayout.png": "iter_00000_step_00005_14_android.widget.LinearLayout.png", 
+            "iter_00000_step_00004_15_android.widget.FrameLayout.png": "iter_00000_step_00005_15_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_16_android.widget.RelativeLayout.png": "iter_00000_step_00005_16_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00004_17_android.widget.EditText.png": "iter_00000_step_00005_18_android.widget.EditText.png", 
+            "iter_00000_step_00004_18_android.widget.EditText.png": "iter_00000_step_00005_18_android.widget.EditText.png", 
+            "iter_00000_step_00004_19_android.widget.TextView.png": "iter_00000_step_00006_19_android.widget.TextView.png", 
+            "iter_00000_step_00004_1_android.widget.LinearLayout.png": "iter_00000_step_00005_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00004_20_android.view.View.png": "iter_00000_step_00006_20_android.view.View.png", 
+            "iter_00000_step_00004_21_android.widget.RelativeLayout.png": "iter_00000_step_00006_21_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00004_22_android.widget.FrameLayout.png": "iter_00000_step_00006_22_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_23_android.widget.RelativeLayout.png": "iter_00000_step_00006_23_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00004_24_android.widget.EditText.png": "iter_00000_step_00006_24_android.widget.EditText.png", 
+            "iter_00000_step_00004_25_android.widget.TextView.png": "iter_00000_step_00006_25_android.widget.TextView.png", 
+            "iter_00000_step_00004_26_android.widget.TextView.png": "iter_00000_step_00006_26_android.widget.TextView.png", 
+            "iter_00000_step_00004_27_android.view.View.png": "iter_00000_step_00006_27_android.view.View.png", 
+            "iter_00000_step_00004_28_android.widget.Button.png": "iter_00000_step_00005_28_android.widget.Button.png", 
+            "iter_00000_step_00004_29_android.widget.Button.png": "iter_00000_step_00005_29_android.widget.Button.png", 
+            "iter_00000_step_00004_2_android.widget.FrameLayout.png": "iter_00000_step_00005_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_30_android.widget.TextView.png": "iter_00000_step_00006_30_android.widget.TextView.png", 
+            "iter_00000_step_00004_31_android.widget.ImageView.png": "iter_00000_step_00006_31_android.widget.ImageView.png", 
+            "iter_00000_step_00004_32_android.widget.ImageView.png": "iter_00000_step_00005_32_android.widget.ImageView.png", 
+            "iter_00000_step_00004_3_android.widget.LinearLayout.png": "iter_00000_step_00005_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00004_4_android.widget.FrameLayout.png": "iter_00000_step_00005_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_5_android.widget.RelativeLayout.png": "iter_00000_step_00005_5_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00004_6_android.widget.RelativeLayout.png": "iter_00000_step_00005_6_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00004_7_android.widget.FrameLayout.png": "iter_00000_step_00006_7_android.widget.FrameLayout.png", 
+            "iter_00000_step_00004_8_android.widget.TextView.png": "iter_00000_step_00006_8_android.widget.TextView.png", 
+            "iter_00000_step_00004_9_android.widget.ScrollView.png": "iter_00000_step_00005_9_android.widget.ScrollView.png", 
+            "iter_00000_step_00005_0_android.widget.FrameLayout.png": "iter_00000_step_00005_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00005_10_android.widget.FrameLayout.png": "iter_00000_step_00005_10_android.widget.FrameLayout.png", 
+            "iter_00000_step_00005_11_android.widget.LinearLayout.png": "iter_00000_step_00005_11_android.widget.LinearLayout.png", 
+            "iter_00000_step_00005_12_android.widget.ImageView.png": "iter_00000_step_00006_12_android.widget.ImageView.png", 
+            "iter_00000_step_00005_13_android.widget.TextView.png": "iter_00000_step_00006_13_android.widget.TextView.png", 
+            "iter_00000_step_00005_14_android.widget.LinearLayout.png": "iter_00000_step_00005_14_android.widget.LinearLayout.png", 
+            "iter_00000_step_00005_15_android.widget.FrameLayout.png": "iter_00000_step_00005_15_android.widget.FrameLayout.png", 
+            "iter_00000_step_00005_16_android.widget.RelativeLayout.png": "iter_00000_step_00005_16_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00005_17_android.widget.EditText.png": "iter_00000_step_00005_18_android.widget.EditText.png", 
+            "iter_00000_step_00005_18_android.widget.EditText.png": "iter_00000_step_00005_18_android.widget.EditText.png", 
+            "iter_00000_step_00005_19_android.widget.TextView.png": "iter_00000_step_00006_19_android.widget.TextView.png", 
+            "iter_00000_step_00005_1_android.widget.LinearLayout.png": "iter_00000_step_00005_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00005_20_android.view.View.png": "iter_00000_step_00006_20_android.view.View.png", 
+            "iter_00000_step_00005_21_android.widget.RelativeLayout.png": "iter_00000_step_00006_21_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00005_22_android.widget.FrameLayout.png": "iter_00000_step_00006_22_android.widget.FrameLayout.png", 
+            "iter_00000_step_00005_23_android.widget.RelativeLayout.png": "iter_00000_step_00006_23_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00005_24_android.widget.EditText.png": "iter_00000_step_00006_24_android.widget.EditText.png", 
+            "iter_00000_step_00005_25_android.widget.TextView.png": "iter_00000_step_00006_25_android.widget.TextView.png", 
+            "iter_00000_step_00005_26_android.widget.TextView.png": "iter_00000_step_00006_26_android.widget.TextView.png", 
+            "iter_00000_step_00005_27_android.view.View.png": "iter_00000_step_00006_27_android.view.View.png", 
+            "iter_00000_step_00005_28_android.widget.Button.png": "iter_00000_step_00005_28_android.widget.Button.png", 
+            "iter_00000_step_00005_29_android.widget.Button.png": "iter_00000_step_00005_29_android.widget.Button.png", 
+            "iter_00000_step_00005_2_android.widget.FrameLayout.png": "iter_00000_step_00005_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00005_30_android.widget.TextView.png": "iter_00000_step_00006_30_android.widget.TextView.png", 
+            "iter_00000_step_00005_31_android.widget.ImageView.png": "iter_00000_step_00006_31_android.widget.ImageView.png", 
+            "iter_00000_step_00005_32_android.widget.ImageView.png": "iter_00000_step_00005_32_android.widget.ImageView.png", 
+            "iter_00000_step_00005_3_android.widget.LinearLayout.png": "iter_00000_step_00005_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00005_4_android.widget.FrameLayout.png": "iter_00000_step_00005_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00005_5_android.widget.RelativeLayout.png": "iter_00000_step_00005_5_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00005_6_android.widget.RelativeLayout.png": "iter_00000_step_00005_6_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00005_7_android.widget.FrameLayout.png": "iter_00000_step_00006_7_android.widget.FrameLayout.png", 
+            "iter_00000_step_00005_8_android.widget.TextView.png": "iter_00000_step_00006_8_android.widget.TextView.png", 
+            "iter_00000_step_00005_9_android.widget.ScrollView.png": "iter_00000_step_00005_9_android.widget.ScrollView.png", 
+            "iter_00000_step_00006_0_android.widget.FrameLayout.png": "iter_00000_step_00006_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_10_android.widget.FrameLayout.png": "iter_00000_step_00006_10_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_11_android.widget.LinearLayout.png": "iter_00000_step_00006_11_android.widget.LinearLayout.png", 
+            "iter_00000_step_00006_12_android.widget.ImageView.png": "iter_00000_step_00006_12_android.widget.ImageView.png", 
+            "iter_00000_step_00006_13_android.widget.TextView.png": "iter_00000_step_00006_13_android.widget.TextView.png", 
+            "iter_00000_step_00006_14_android.widget.LinearLayout.png": "iter_00000_step_00006_14_android.widget.LinearLayout.png", 
+            "iter_00000_step_00006_15_android.widget.FrameLayout.png": "iter_00000_step_00006_15_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_16_android.widget.RelativeLayout.png": "iter_00000_step_00006_16_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00006_17_android.widget.EditText.png": "iter_00000_step_00006_17_android.widget.EditText.png", 
+            "iter_00000_step_00006_18_android.widget.EditText.png": "iter_00000_step_00006_18_android.widget.EditText.png", 
+            "iter_00000_step_00006_19_android.widget.TextView.png": "iter_00000_step_00006_19_android.widget.TextView.png", 
+            "iter_00000_step_00006_1_android.widget.LinearLayout.png": "iter_00000_step_00006_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00006_20_android.view.View.png": "iter_00000_step_00006_20_android.view.View.png", 
+            "iter_00000_step_00006_21_android.widget.RelativeLayout.png": "iter_00000_step_00006_21_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00006_22_android.widget.FrameLayout.png": "iter_00000_step_00006_22_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_23_android.widget.RelativeLayout.png": "iter_00000_step_00006_23_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00006_24_android.widget.EditText.png": "iter_00000_step_00006_24_android.widget.EditText.png", 
+            "iter_00000_step_00006_25_android.widget.TextView.png": "iter_00000_step_00006_25_android.widget.TextView.png", 
+            "iter_00000_step_00006_26_android.widget.TextView.png": "iter_00000_step_00006_26_android.widget.TextView.png", 
+            "iter_00000_step_00006_27_android.view.View.png": "iter_00000_step_00006_27_android.view.View.png", 
+            "iter_00000_step_00006_28_android.widget.Button.png": "iter_00000_step_00006_28_android.widget.Button.png", 
+            "iter_00000_step_00006_29_android.widget.Button.png": "iter_00000_step_00006_29_android.widget.Button.png", 
+            "iter_00000_step_00006_2_android.widget.FrameLayout.png": "iter_00000_step_00006_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_30_android.widget.TextView.png": "iter_00000_step_00006_30_android.widget.TextView.png", 
+            "iter_00000_step_00006_31_android.widget.ImageView.png": "iter_00000_step_00006_31_android.widget.ImageView.png", 
+            "iter_00000_step_00006_32_android.widget.ImageView.png": "iter_00000_step_00006_32_android.widget.ImageView.png", 
+            "iter_00000_step_00006_3_android.widget.LinearLayout.png": "iter_00000_step_00006_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00006_4_android.widget.FrameLayout.png": "iter_00000_step_00006_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_5_android.widget.RelativeLayout.png": "iter_00000_step_00006_5_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00006_6_android.widget.RelativeLayout.png": "iter_00000_step_00006_6_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00006_7_android.widget.FrameLayout.png": "iter_00000_step_00006_7_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_8_android.widget.TextView.png": "iter_00000_step_00006_8_android.widget.TextView.png", 
+            "iter_00000_step_00006_9_android.widget.ScrollView.png": "iter_00000_step_00006_9_android.widget.ScrollView.png"
+        }, 
+        "elems_to_infos": {
+            "iter_00000_step_00001_10_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_10_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_10_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "pyltyl9PAnhXZSMFGQNQ5Q==\n", 
+                    "height": 816, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y344_W1080_H816", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 344
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00001_11_android.widget.ImageView.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_11_android.widget.ImageView.png", 
+                    "iter_00000_step_00000_11_android.widget.ImageView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ImageView", 
+                    "hash": "3YEeeePgPz4ZU4OR2oMJ2Q==\n", 
+                    "height": 816, 
+                    "human_hash": "android.widget.ImageView_X0_Y344_W1080_H816", 
+                    "tag_name": "android.widget.ImageView", 
+                    "text": "", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 344
+                }, 
+                "tags": [
+                    "imageview", 
+                    "image", 
+                    "all_elems", 
+                    "android.widget.imageview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00001_12_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_12_android.widget.TextView.png", 
+                    "iter_00000_step_00000_12_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "DN8ujdKYO0AqFCs+IYHPAg==\n", 
+                    "height": 71, 
+                    "human_hash": "android.widget.TextView_X123_Y1160_W833_H71", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "We help you grow your money", 
+                    "width": 833, 
+                    "x": 123, 
+                    "y": 1160
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "We_help_you_grow_your_money"
+                ]
+            }, 
+            "iter_00000_step_00001_13_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_13_android.widget.TextView.png", 
+                    "iter_00000_step_00000_13_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "HX3czcq9VL1Npm1ojEX96A==\n", 
+                    "height": 145, 
+                    "human_hash": "android.widget.TextView_X53_Y1252_W974_H145", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Get your financial wellness system. Invest spare change, save for retirement, save and invest when you spend, earn bonus investments and much more.", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 1252
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Get_your_financial_wellness_system._Invest_spare_change,_save_for_retirement,_save_and_invest_when_you_spend,_earn_bonus_investments_and_much_more."
+                ]
+            }, 
+            "iter_00000_step_00001_14_android.widget.Button.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_14_android.widget.Button.png", 
+                    "iter_00000_step_00000_14_android.widget.Button.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Button", 
+                    "hash": "3v3e5HB+hAx9A9Cx0jgC/g==\n", 
+                    "height": 116, 
+                    "human_hash": "android.widget.Button_X53_Y1573_W974_H116", 
+                    "tag_name": "android.widget.Button", 
+                    "text": "Get started", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 1573
+                }, 
+                "tags": [
+                    "android.widget.button", 
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Get_started"
+                ]
+            }, 
+            "iter_00000_step_00001_15_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_15_android.widget.TextView.png", 
+                    "iter_00000_step_00000_15_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "B39h8Q48a5z2FmhKAHOMBg==\n", 
+                    "height": 26, 
+                    "human_hash": "android.widget.TextView_X53_Y1715_W974_H26", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Card issued by Lincoln Savings Bank, Member FDIC", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 1715
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Card_issued_by_Lincoln_Savings_Bank,_Member_FDIC"
+                ]
+            }, 
+            "iter_00000_step_00001_5_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 8, 
+                "dupes": [
+                    "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00001_4_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00001_2_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00001_0_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_5_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_2_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_0_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "dvihdWJA91Ncha5EuPr03A==\n", 
+                    "height": 1794, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y0_W1080_H1794", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Welcome to Acorns Log In We help you grow your money Get your financial wellness system. Invest spare change, save for retirement, save and invest when you spend, earn bonus investments and much more. Get started Card issued by Lincoln Savings Bank, Member FDIC", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Welcome_to_Acorns_Log_In_We_help_you_grow_your_money_Get_your_financial_wellness_system._Invest_spare_change,_save_for_retirement,_save_and_invest_when_you_spend,_earn_bonus_investments_and_much_more._Get_started_Card_issued_by_Lincoln_Savings_Bank,_Member_FDIC"
+                ]
+            }, 
+            "iter_00000_step_00001_6_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00001_6_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00001_3_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00001_1_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00000_6_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00000_3_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00000_1_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "HB2Cc+HxmKHpOae2I5MkXQ==\n", 
+                    "height": 1794, 
+                    "human_hash": "android.widget.LinearLayout_X0_Y0_W1080_H1794", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "Welcome to Acorns Log In We help you grow your money Get your financial wellness system. Invest spare change, save for retirement, save and invest when you spend, earn bonus investments and much more. Get started Card issued by Lincoln Savings Bank, Member FDIC", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "Welcome_to_Acorns_Log_In_We_help_you_grow_your_money_Get_your_financial_wellness_system._Invest_spare_change,_save_for_retirement,_save_and_invest_when_you_spend,_earn_bonus_investments_and_much_more._Get_started_Card_issued_by_Lincoln_Savings_Bank,_Member_FDIC"
+                ]
+            }, 
+            "iter_00000_step_00001_7_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_7_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00000_7_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "oUVXMY8W8thuZQfTF7rJTQ==\n", 
+                    "height": 176, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y63_W1080_H176", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Welcome to Acorns Log In", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 63
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Welcome_to_Acorns_Log_In"
+                ]
+            }, 
+            "iter_00000_step_00001_8_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_8_android.widget.TextView.png", 
+                    "iter_00000_step_00000_8_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "wCq14ZsQU3jvUYF9wcm2Ag==\n", 
+                    "height": 46, 
+                    "human_hash": "android.widget.TextView_X370_Y128_W339_H46", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Welcome to Acorns", 
+                    "width": 339, 
+                    "x": 370, 
+                    "y": 128
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Welcome_to_Acorns"
+                ]
+            }, 
+            "iter_00000_step_00001_9_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00001_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00001_9_android.widget.TextView.png", 
+                    "iter_00000_step_00000_9_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "aPgrrmIwQYKDY/j0q2RB6A==\n", 
+                    "height": 91, 
+                    "human_hash": "android.widget.TextView_X912_Y105_W142_H91", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Log In", 
+                    "width": 142, 
+                    "x": 912, 
+                    "y": 105
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Log_In"
+                ]
+            }, 
+            "iter_00000_step_00003_10_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_10_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00002_10_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "XIbH11XxqmhGqrNMkumvVg==\n", 
+                    "height": 1640, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y154_W1080_H1640", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Log In to Acorns Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 154
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Log_In_to_Acorns_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00003_11_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_11_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00002_11_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "jgirbV1EWpRcem/vjBwo4g==\n", 
+                    "height": 1222, 
+                    "human_hash": "android.widget.LinearLayout_X53_Y154_W974_H1222", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "Log In to Acorns Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 154
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "Log_In_to_Acorns_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00003_14_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_14_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00002_14_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "pTODf4DES/HHUwjSAwoOoA==\n", 
+                    "height": 834, 
+                    "human_hash": "android.widget.LinearLayout_X53_Y482_W974_H834", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "Email Password Show Log In Forgot Password?", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 482
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "Email_Password_Show_Log_In_Forgot_Password?"
+                ]
+            }, 
+            "iter_00000_step_00003_21_android.widget.RelativeLayout.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_21_android.widget.RelativeLayout.png", 
+                    "iter_00000_step_00002_21_android.widget.RelativeLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.RelativeLayout", 
+                    "hash": "MQxdhmEgbaDZECfHzfVN5A==\n", 
+                    "height": 190, 
+                    "human_hash": "android.widget.RelativeLayout_X53_Y702_W974_H190", 
+                    "tag_name": "android.widget.RelativeLayout", 
+                    "text": "Password Show", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 702
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.relativelayout", 
+                    "relativelayout", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Password_Show"
+                ]
+            }, 
+            "iter_00000_step_00003_22_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_22_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00002_22_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "OI+HQW1/hntU+WSniPotqg==\n", 
+                    "height": 190, 
+                    "human_hash": "android.widget.FrameLayout_X53_Y702_W974_H190", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Password", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 702
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Password"
+                ]
+            }, 
+            "iter_00000_step_00003_23_android.widget.RelativeLayout.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_23_android.widget.RelativeLayout.png", 
+                    "iter_00000_step_00002_23_android.widget.RelativeLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.RelativeLayout", 
+                    "hash": "c7HMaJYNhWx0sgDZl9esgg==\n", 
+                    "height": 190, 
+                    "human_hash": "android.widget.RelativeLayout_X53_Y702_W974_H190", 
+                    "tag_name": "android.widget.RelativeLayout", 
+                    "text": "Password", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 702
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.relativelayout", 
+                    "relativelayout", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Password"
+                ]
+            }, 
+            "iter_00000_step_00003_24_android.widget.EditText.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_24_android.widget.EditText.png", 
+                    "iter_00000_step_00002_24_android.widget.EditText.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.EditText", 
+                    "hash": "a61YOZgS63flrP5IqBtvvQ==\n", 
+                    "height": 166, 
+                    "human_hash": "android.widget.EditText_X64_Y715_W952_H166", 
+                    "tag_name": "android.widget.EditText", 
+                    "text": "", 
+                    "width": 952, 
+                    "x": 64, 
+                    "y": 715
+                }, 
+                "tags": [
+                    "edit", 
+                    "edittext", 
+                    "android.widget.edittext", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00003_32_android.widget.ImageView.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_32_android.widget.ImageView.png", 
+                    "iter_00000_step_00002_32_android.widget.ImageView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ImageView", 
+                    "hash": "Sr6Vh0ycFkLujMQrqbxRNQ==\n", 
+                    "height": 415, 
+                    "human_hash": "android.widget.ImageView_X0_Y915_W370_H415", 
+                    "tag_name": "android.widget.ImageView", 
+                    "text": "", 
+                    "width": 370, 
+                    "x": 0, 
+                    "y": 915
+                }, 
+                "tags": [
+                    "imageview", 
+                    "image", 
+                    "all_elems", 
+                    "android.widget.imageview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00003_3_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 4, 
+                "dupes": [
+                    "iter_00000_step_00003_3_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00003_1_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00002_3_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00002_1_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "BcR42A97n7+JKw2XylY7ow==\n", 
+                    "height": 1794, 
+                    "human_hash": "android.widget.LinearLayout_X0_Y0_W1080_H1794", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "Sign up Log In to Acorns Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "Sign_up_Log_In_to_Acorns_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00003_4_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00003_4_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00003_2_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00003_0_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00002_4_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00002_2_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00002_0_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "h92EGvFYwp17+RDETvKhxg==\n", 
+                    "height": 1794, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y0_W1080_H1794", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Sign up Log In to Acorns Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Sign_up_Log_In_to_Acorns_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00003_5_android.widget.RelativeLayout.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_5_android.widget.RelativeLayout.png", 
+                    "iter_00000_step_00002_5_android.widget.RelativeLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.RelativeLayout", 
+                    "hash": "KpTLUfFXhzy68dLPuyVcwA==\n", 
+                    "height": 1794, 
+                    "human_hash": "android.widget.RelativeLayout_X0_Y0_W1080_H1794", 
+                    "tag_name": "android.widget.RelativeLayout", 
+                    "text": "Sign up Log In to Acorns Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.relativelayout", 
+                    "relativelayout", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Sign_up_Log_In_to_Acorns_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00003_6_android.widget.RelativeLayout.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_6_android.widget.RelativeLayout.png", 
+                    "iter_00000_step_00002_6_android.widget.RelativeLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.RelativeLayout", 
+                    "hash": "/VAdOstYbi1aVh5vsDUneg==\n", 
+                    "height": 1731, 
+                    "human_hash": "android.widget.RelativeLayout_X0_Y63_W1080_H1731", 
+                    "tag_name": "android.widget.RelativeLayout", 
+                    "text": "Sign up Log In to Acorns Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 63
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.relativelayout", 
+                    "relativelayout", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Sign_up_Log_In_to_Acorns_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00003_9_android.widget.ScrollView.png": {
+                "context_screen_img": "iter_00000_step_00003_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00003_9_android.widget.ScrollView.png", 
+                    "iter_00000_step_00002_9_android.widget.ScrollView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ScrollView", 
+                    "hash": "dDCLBKv2UeVK+B6zLcm3OQ==\n", 
+                    "height": 1640, 
+                    "human_hash": "android.widget.ScrollView_X0_Y154_W1080_H1640", 
+                    "tag_name": "android.widget.ScrollView", 
+                    "text": "Log In to Acorns Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 154
+                }, 
+                "tags": [
+                    "android.widget.scrollview", 
+                    "all_elems", 
+                    "scrollview", 
+                    "scroll"
+                ], 
+                "text": [
+                    "Log_In_to_Acorns_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00005_10_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00005_10_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00004_10_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "XIbH11XxqmhGqrNMkumvVg==\n", 
+                    "height": 1640, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y154_W1080_H1640", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Log In to Acorns Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 154
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Log_In_to_Acorns_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00005_11_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00005_11_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00004_11_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "jgirbV1EWpRcem/vjBwo4g==\n", 
+                    "height": 1222, 
+                    "human_hash": "android.widget.LinearLayout_X53_Y154_W974_H1222", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "Log In to Acorns Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 154
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "Log_In_to_Acorns_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00005_14_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00005_14_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00004_14_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "pTODf4DES/HHUwjSAwoOoA==\n", 
+                    "height": 834, 
+                    "human_hash": "android.widget.LinearLayout_X53_Y482_W974_H834", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "Email Password Show Log In Forgot Password?", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 482
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "Email_Password_Show_Log_In_Forgot_Password?"
+                ]
+            }, 
+            "iter_00000_step_00005_15_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 4, 
+                "dupes": [
+                    "iter_00000_step_00005_15_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00004_15_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00003_15_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00002_15_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "VQzfLvIYhc3m0U6M4FC74A==\n", 
+                    "height": 190, 
+                    "human_hash": "android.widget.FrameLayout_X53_Y535_W974_H190", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Email", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 535
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Email"
+                ]
+            }, 
+            "iter_00000_step_00005_16_android.widget.RelativeLayout.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 4, 
+                "dupes": [
+                    "iter_00000_step_00005_16_android.widget.RelativeLayout.png", 
+                    "iter_00000_step_00004_16_android.widget.RelativeLayout.png", 
+                    "iter_00000_step_00003_16_android.widget.RelativeLayout.png", 
+                    "iter_00000_step_00002_16_android.widget.RelativeLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.RelativeLayout", 
+                    "hash": "9S8Ta0Uy4Io/v1PSXyDIIA==\n", 
+                    "height": 190, 
+                    "human_hash": "android.widget.RelativeLayout_X53_Y535_W974_H190", 
+                    "tag_name": "android.widget.RelativeLayout", 
+                    "text": "Email", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 535
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.relativelayout", 
+                    "relativelayout", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Email"
+                ]
+            }, 
+            "iter_00000_step_00005_18_android.widget.EditText.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 8, 
+                "dupes": [
+                    "iter_00000_step_00005_18_android.widget.EditText.png", 
+                    "iter_00000_step_00005_17_android.widget.EditText.png", 
+                    "iter_00000_step_00004_18_android.widget.EditText.png", 
+                    "iter_00000_step_00004_17_android.widget.EditText.png", 
+                    "iter_00000_step_00003_18_android.widget.EditText.png", 
+                    "iter_00000_step_00003_17_android.widget.EditText.png", 
+                    "iter_00000_step_00002_18_android.widget.EditText.png", 
+                    "iter_00000_step_00002_17_android.widget.EditText.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.EditText", 
+                    "hash": "75vHGfVhdjX4P3MVXEGyNw==\n", 
+                    "height": 166, 
+                    "human_hash": "android.widget.EditText_X64_Y548_W952_H166", 
+                    "tag_name": "android.widget.EditText", 
+                    "text": "", 
+                    "width": 952, 
+                    "x": 64, 
+                    "y": 548
+                }, 
+                "tags": [
+                    "edit", 
+                    "edittext", 
+                    "android.widget.edittext", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00005_28_android.widget.Button.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 4, 
+                "dupes": [
+                    "iter_00000_step_00005_28_android.widget.Button.png", 
+                    "iter_00000_step_00004_28_android.widget.Button.png", 
+                    "iter_00000_step_00003_28_android.widget.Button.png", 
+                    "iter_00000_step_00002_28_android.widget.Button.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Button", 
+                    "hash": "2L4eQqqX44/7CUc1vi9cyQ==\n", 
+                    "height": 116, 
+                    "human_hash": "android.widget.Button_X106_Y945_W868_H116", 
+                    "tag_name": "android.widget.Button", 
+                    "text": "Log In", 
+                    "width": 868, 
+                    "x": 106, 
+                    "y": 945
+                }, 
+                "tags": [
+                    "android.widget.button", 
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Log_In"
+                ]
+            }, 
+            "iter_00000_step_00005_29_android.widget.Button.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00005_29_android.widget.Button.png", 
+                    "iter_00000_step_00004_29_android.widget.Button.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Button", 
+                    "hash": "8cpQAyCWrxUQeoktyCmXCw==\n", 
+                    "height": 126, 
+                    "human_hash": "android.widget.Button_X106_Y1114_W868_H126", 
+                    "tag_name": "android.widget.Button", 
+                    "text": "Forgot Password?", 
+                    "width": 868, 
+                    "x": 106, 
+                    "y": 1114
+                }, 
+                "tags": [
+                    "android.widget.button", 
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Forgot_Password?"
+                ]
+            }, 
+            "iter_00000_step_00005_32_android.widget.ImageView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00005_32_android.widget.ImageView.png", 
+                    "iter_00000_step_00004_32_android.widget.ImageView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ImageView", 
+                    "hash": "Sr6Vh0ycFkLujMQrqbxRNQ==\n", 
+                    "height": 415, 
+                    "human_hash": "android.widget.ImageView_X0_Y915_W370_H415", 
+                    "tag_name": "android.widget.ImageView", 
+                    "text": "", 
+                    "width": 370, 
+                    "x": 0, 
+                    "y": 915
+                }, 
+                "tags": [
+                    "imageview", 
+                    "image", 
+                    "all_elems", 
+                    "android.widget.imageview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00005_3_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 4, 
+                "dupes": [
+                    "iter_00000_step_00005_3_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00005_1_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00004_3_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00004_1_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "BcR42A97n7+JKw2XylY7ow==\n", 
+                    "height": 1794, 
+                    "human_hash": "android.widget.LinearLayout_X0_Y0_W1080_H1794", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "Sign up Log In to Acorns Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "Sign_up_Log_In_to_Acorns_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00005_4_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 6, 
+                "dupes": [
+                    "iter_00000_step_00005_4_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00005_2_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00005_0_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00004_4_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00004_2_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00004_0_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "h92EGvFYwp17+RDETvKhxg==\n", 
+                    "height": 1794, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y0_W1080_H1794", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Sign up Log In to Acorns Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Sign_up_Log_In_to_Acorns_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00005_5_android.widget.RelativeLayout.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00005_5_android.widget.RelativeLayout.png", 
+                    "iter_00000_step_00004_5_android.widget.RelativeLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.RelativeLayout", 
+                    "hash": "KpTLUfFXhzy68dLPuyVcwA==\n", 
+                    "height": 1794, 
+                    "human_hash": "android.widget.RelativeLayout_X0_Y0_W1080_H1794", 
+                    "tag_name": "android.widget.RelativeLayout", 
+                    "text": "Sign up Log In to Acorns Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.relativelayout", 
+                    "relativelayout", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Sign_up_Log_In_to_Acorns_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00005_6_android.widget.RelativeLayout.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00005_6_android.widget.RelativeLayout.png", 
+                    "iter_00000_step_00004_6_android.widget.RelativeLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.RelativeLayout", 
+                    "hash": "/VAdOstYbi1aVh5vsDUneg==\n", 
+                    "height": 1731, 
+                    "human_hash": "android.widget.RelativeLayout_X0_Y63_W1080_H1731", 
+                    "tag_name": "android.widget.RelativeLayout", 
+                    "text": "Sign up Log In to Acorns Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 63
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.relativelayout", 
+                    "relativelayout", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Sign_up_Log_In_to_Acorns_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00005_9_android.widget.ScrollView.png": {
+                "context_screen_img": "iter_00000_step_00005_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00005_9_android.widget.ScrollView.png", 
+                    "iter_00000_step_00004_9_android.widget.ScrollView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ScrollView", 
+                    "hash": "dDCLBKv2UeVK+B6zLcm3OQ==\n", 
+                    "height": 1640, 
+                    "human_hash": "android.widget.ScrollView_X0_Y154_W1080_H1640", 
+                    "tag_name": "android.widget.ScrollView", 
+                    "text": "Log In to Acorns Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 154
+                }, 
+                "tags": [
+                    "android.widget.scrollview", 
+                    "all_elems", 
+                    "scrollview", 
+                    "scroll"
+                ], 
+                "text": [
+                    "Log_In_to_Acorns_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00006_10_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_10_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "jP0pV9OBkuRTFpAA24tg/w==\n", 
+                    "height": 1640, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y154_W1080_H1640", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Log In to Acorns nicholasmullins@gmail.com Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 154
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Log_In_to_Acorns_nicholasmullins@gmail.com_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00006_11_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_11_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "KlNjw290YRyokgXi2302ow==\n", 
+                    "height": 1222, 
+                    "human_hash": "android.widget.LinearLayout_X53_Y154_W974_H1222", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "Log In to Acorns nicholasmullins@gmail.com Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 154
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "Log_In_to_Acorns_nicholasmullins@gmail.com_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00006_12_android.widget.ImageView.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00006_12_android.widget.ImageView.png", 
+                    "iter_00000_step_00005_12_android.widget.ImageView.png", 
+                    "iter_00000_step_00004_12_android.widget.ImageView.png", 
+                    "iter_00000_step_00003_12_android.widget.ImageView.png", 
+                    "iter_00000_step_00002_12_android.widget.ImageView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ImageView", 
+                    "hash": "0GfPM/RJ1hztDn2gGe5RhA==\n", 
+                    "height": 137, 
+                    "human_hash": "android.widget.ImageView_X454_Y154_W171_H137", 
+                    "tag_name": "android.widget.ImageView", 
+                    "text": "", 
+                    "width": 171, 
+                    "x": 454, 
+                    "y": 154
+                }, 
+                "tags": [
+                    "imageview", 
+                    "image", 
+                    "all_elems", 
+                    "android.widget.imageview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00006_13_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00006_13_android.widget.TextView.png", 
+                    "iter_00000_step_00005_13_android.widget.TextView.png", 
+                    "iter_00000_step_00004_13_android.widget.TextView.png", 
+                    "iter_00000_step_00003_13_android.widget.TextView.png", 
+                    "iter_00000_step_00002_13_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "q6FVZtlFmpLNjyT3QaUQ2w==\n", 
+                    "height": 138, 
+                    "human_hash": "android.widget.TextView_X323_Y344_W434_H138", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Log In to Acorns", 
+                    "width": 434, 
+                    "x": 323, 
+                    "y": 344
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Log_In_to_Acorns"
+                ]
+            }, 
+            "iter_00000_step_00006_14_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_14_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "31xn3865W0iCoG6m5y+1UA==\n", 
+                    "height": 834, 
+                    "human_hash": "android.widget.LinearLayout_X53_Y482_W974_H834", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "nicholasmullins@gmail.com Email Password Show Log In Forgot Password?", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 482
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "nicholasmullins@gmail.com_Email_Password_Show_Log_In_Forgot_Password?"
+                ]
+            }, 
+            "iter_00000_step_00006_15_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_15_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "KqLuQQqt4ZnlFLCluRhHHA==\n", 
+                    "height": 190, 
+                    "human_hash": "android.widget.FrameLayout_X53_Y535_W974_H190", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "nicholasmullins@gmail.com Email", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 535
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "nicholasmullins@gmail.com_Email"
+                ]
+            }, 
+            "iter_00000_step_00006_16_android.widget.RelativeLayout.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_16_android.widget.RelativeLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.RelativeLayout", 
+                    "hash": "8ZgkdyG8S1F3gToVW7vnTg==\n", 
+                    "height": 190, 
+                    "human_hash": "android.widget.RelativeLayout_X53_Y535_W974_H190", 
+                    "tag_name": "android.widget.RelativeLayout", 
+                    "text": "nicholasmullins@gmail.com Email", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 535
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.relativelayout", 
+                    "relativelayout", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "nicholasmullins@gmail.com_Email"
+                ]
+            }, 
+            "iter_00000_step_00006_17_android.widget.EditText.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_17_android.widget.EditText.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.EditText", 
+                    "hash": "0DyQazlVYKH7mFm6yhlqmw==\n", 
+                    "height": 166, 
+                    "human_hash": "android.widget.EditText_X64_Y548_W952_H166", 
+                    "tag_name": "android.widget.EditText", 
+                    "text": "nicholasmullins@gmail.com", 
+                    "width": 952, 
+                    "x": 64, 
+                    "y": 548
+                }, 
+                "tags": [
+                    "edit", 
+                    "edittext", 
+                    "android.widget.edittext", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "nicholasmullins@gmail.com"
+                ]
+            }, 
+            "iter_00000_step_00006_18_android.widget.EditText.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_18_android.widget.EditText.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.EditText", 
+                    "hash": "75vHGfVhdjX4P3MVXEGyNw==\n", 
+                    "height": 166, 
+                    "human_hash": "android.widget.EditText_X64_Y548_W952_H166", 
+                    "tag_name": "android.widget.EditText", 
+                    "text": "", 
+                    "width": 952, 
+                    "x": 64, 
+                    "y": 548
+                }, 
+                "tags": [
+                    "edit", 
+                    "edittext", 
+                    "android.widget.edittext", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00006_19_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00006_19_android.widget.TextView.png", 
+                    "iter_00000_step_00005_19_android.widget.TextView.png", 
+                    "iter_00000_step_00004_19_android.widget.TextView.png", 
+                    "iter_00000_step_00003_19_android.widget.TextView.png", 
+                    "iter_00000_step_00002_19_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "XU8IkyG/CtkrhK5+xnt2Bg==\n", 
+                    "height": 39, 
+                    "human_hash": "android.widget.TextView_X106_Y577_W80_H39", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Email", 
+                    "width": 80, 
+                    "x": 106, 
+                    "y": 577
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Email"
+                ]
+            }, 
+            "iter_00000_step_00006_20_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00006_20_android.view.View.png", 
+                    "iter_00000_step_00005_20_android.view.View.png", 
+                    "iter_00000_step_00004_20_android.view.View.png", 
+                    "iter_00000_step_00003_20_android.view.View.png", 
+                    "iter_00000_step_00002_20_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "/DSFBoXaf7400Sh8rQjLaw==\n", 
+                    "height": 3, 
+                    "human_hash": "android.view.View_X106_Y699_W868_H3", 
+                    "tag_name": "android.view.View", 
+                    "text": "", 
+                    "width": 868, 
+                    "x": 106, 
+                    "y": 699
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00006_21_android.widget.RelativeLayout.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00006_21_android.widget.RelativeLayout.png", 
+                    "iter_00000_step_00005_21_android.widget.RelativeLayout.png", 
+                    "iter_00000_step_00004_21_android.widget.RelativeLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.RelativeLayout", 
+                    "hash": "MQxdhmEgbaDZECfHzfVN5A==\n", 
+                    "height": 190, 
+                    "human_hash": "android.widget.RelativeLayout_X53_Y702_W974_H190", 
+                    "tag_name": "android.widget.RelativeLayout", 
+                    "text": "Password Show", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 702
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.relativelayout", 
+                    "relativelayout", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Password_Show"
+                ]
+            }, 
+            "iter_00000_step_00006_22_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00006_22_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00005_22_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00004_22_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "OI+HQW1/hntU+WSniPotqg==\n", 
+                    "height": 190, 
+                    "human_hash": "android.widget.FrameLayout_X53_Y702_W974_H190", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Password", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 702
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Password"
+                ]
+            }, 
+            "iter_00000_step_00006_23_android.widget.RelativeLayout.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00006_23_android.widget.RelativeLayout.png", 
+                    "iter_00000_step_00005_23_android.widget.RelativeLayout.png", 
+                    "iter_00000_step_00004_23_android.widget.RelativeLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.RelativeLayout", 
+                    "hash": "c7HMaJYNhWx0sgDZl9esgg==\n", 
+                    "height": 190, 
+                    "human_hash": "android.widget.RelativeLayout_X53_Y702_W974_H190", 
+                    "tag_name": "android.widget.RelativeLayout", 
+                    "text": "Password", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 702
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.relativelayout", 
+                    "relativelayout", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Password"
+                ]
+            }, 
+            "iter_00000_step_00006_24_android.widget.EditText.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00006_24_android.widget.EditText.png", 
+                    "iter_00000_step_00005_24_android.widget.EditText.png", 
+                    "iter_00000_step_00004_24_android.widget.EditText.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.EditText", 
+                    "hash": "a61YOZgS63flrP5IqBtvvQ==\n", 
+                    "height": 166, 
+                    "human_hash": "android.widget.EditText_X64_Y715_W952_H166", 
+                    "tag_name": "android.widget.EditText", 
+                    "text": "", 
+                    "width": 952, 
+                    "x": 64, 
+                    "y": 715
+                }, 
+                "tags": [
+                    "edit", 
+                    "edittext", 
+                    "android.widget.edittext", 
+                    "all_elems"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00006_25_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00006_25_android.widget.TextView.png", 
+                    "iter_00000_step_00005_25_android.widget.TextView.png", 
+                    "iter_00000_step_00004_25_android.widget.TextView.png", 
+                    "iter_00000_step_00003_25_android.widget.TextView.png", 
+                    "iter_00000_step_00002_25_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "XdsWs+ZLzNAul+IJrfBOYA==\n", 
+                    "height": 39, 
+                    "human_hash": "android.widget.TextView_X106_Y744_W137_H39", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Password", 
+                    "width": 137, 
+                    "x": 106, 
+                    "y": 744
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Password"
+                ]
+            }, 
+            "iter_00000_step_00006_26_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00006_26_android.widget.TextView.png", 
+                    "iter_00000_step_00005_26_android.widget.TextView.png", 
+                    "iter_00000_step_00004_26_android.widget.TextView.png", 
+                    "iter_00000_step_00003_26_android.widget.TextView.png", 
+                    "iter_00000_step_00002_26_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "8CCARISlkgeBCvFjzgwvMQ==\n", 
+                    "height": 65, 
+                    "human_hash": "android.widget.TextView_X867_Y728_W107_H65", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Show", 
+                    "width": 107, 
+                    "x": 867, 
+                    "y": 728
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Show"
+                ]
+            }, 
+            "iter_00000_step_00006_27_android.view.View.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00006_27_android.view.View.png", 
+                    "iter_00000_step_00005_27_android.view.View.png", 
+                    "iter_00000_step_00004_27_android.view.View.png", 
+                    "iter_00000_step_00003_27_android.view.View.png", 
+                    "iter_00000_step_00002_27_android.view.View.png"
+                ], 
+                "elem_info": {
+                    "class": "android.view.View", 
+                    "hash": "t6CecXHkib+oRnxZt+uuNQ==\n", 
+                    "height": 3, 
+                    "human_hash": "android.view.View_X106_Y866_W868_H3", 
+                    "tag_name": "android.view.View", 
+                    "text": "", 
+                    "width": 868, 
+                    "x": 106, 
+                    "y": 866
+                }, 
+                "tags": [
+                    "android.view.view", 
+                    "all_elems", 
+                    "view"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00006_28_android.widget.Button.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_28_android.widget.Button.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Button", 
+                    "hash": "2L4eQqqX44/7CUc1vi9cyQ==\n", 
+                    "height": 116, 
+                    "human_hash": "android.widget.Button_X106_Y945_W868_H116", 
+                    "tag_name": "android.widget.Button", 
+                    "text": "Log In", 
+                    "width": 868, 
+                    "x": 106, 
+                    "y": 945
+                }, 
+                "tags": [
+                    "android.widget.button", 
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Log_In"
+                ]
+            }, 
+            "iter_00000_step_00006_29_android.widget.Button.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00006_29_android.widget.Button.png", 
+                    "iter_00000_step_00003_29_android.widget.Button.png", 
+                    "iter_00000_step_00002_29_android.widget.Button.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.Button", 
+                    "hash": "8cpQAyCWrxUQeoktyCmXCw==\n", 
+                    "height": 126, 
+                    "human_hash": "android.widget.Button_X106_Y1114_W868_H126", 
+                    "tag_name": "android.widget.Button", 
+                    "text": "Forgot Password?", 
+                    "width": 868, 
+                    "x": 106, 
+                    "y": 1114
+                }, 
+                "tags": [
+                    "android.widget.button", 
+                    "button", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Forgot_Password?"
+                ]
+            }, 
+            "iter_00000_step_00006_30_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00006_30_android.widget.TextView.png", 
+                    "iter_00000_step_00005_30_android.widget.TextView.png", 
+                    "iter_00000_step_00004_30_android.widget.TextView.png", 
+                    "iter_00000_step_00003_30_android.widget.TextView.png", 
+                    "iter_00000_step_00002_30_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "LBJcRDcIiiSAmwJBm6cC3w==\n", 
+                    "height": 39, 
+                    "human_hash": "android.widget.TextView_X53_Y1337_W974_H39", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Version 3.11.39", 
+                    "width": 974, 
+                    "x": 53, 
+                    "y": 1337
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00006_31_android.widget.ImageView.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00006_31_android.widget.ImageView.png", 
+                    "iter_00000_step_00005_31_android.widget.ImageView.png", 
+                    "iter_00000_step_00004_31_android.widget.ImageView.png", 
+                    "iter_00000_step_00003_31_android.widget.ImageView.png", 
+                    "iter_00000_step_00002_31_android.widget.ImageView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ImageView", 
+                    "hash": "lqsXmh/Kv69xMB6LIED6Xg==\n", 
+                    "height": 428, 
+                    "human_hash": "android.widget.ImageView_X838_Y154_W242_H428", 
+                    "tag_name": "android.widget.ImageView", 
+                    "text": "", 
+                    "width": 242, 
+                    "x": 838, 
+                    "y": 154
+                }, 
+                "tags": [
+                    "imageview", 
+                    "image", 
+                    "all_elems", 
+                    "android.widget.imageview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00006_32_android.widget.ImageView.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_32_android.widget.ImageView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ImageView", 
+                    "hash": "Sr6Vh0ycFkLujMQrqbxRNQ==\n", 
+                    "height": 415, 
+                    "human_hash": "android.widget.ImageView_X0_Y915_W370_H415", 
+                    "tag_name": "android.widget.ImageView", 
+                    "text": "", 
+                    "width": 370, 
+                    "x": 0, 
+                    "y": 915
+                }, 
+                "tags": [
+                    "imageview", 
+                    "image", 
+                    "all_elems", 
+                    "android.widget.imageview"
+                ], 
+                "text": [
+                    ""
+                ]
+            }, 
+            "iter_00000_step_00006_3_android.widget.LinearLayout.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 2, 
+                "dupes": [
+                    "iter_00000_step_00006_3_android.widget.LinearLayout.png", 
+                    "iter_00000_step_00006_1_android.widget.LinearLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.LinearLayout", 
+                    "hash": "n2R4kw/xULUCJQzlrSk6FQ==\n", 
+                    "height": 1794, 
+                    "human_hash": "android.widget.LinearLayout_X0_Y0_W1080_H1794", 
+                    "tag_name": "android.widget.LinearLayout", 
+                    "text": "Sign up Log In to Acorns nicholasmullins@gmail.com Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "linearlayout", 
+                    "layout", 
+                    "all_elems", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "Sign_up_Log_In_to_Acorns_nicholasmullins@gmail.com_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00006_4_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 3, 
+                "dupes": [
+                    "iter_00000_step_00006_4_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00006_2_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00006_0_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "Va/ri+Cbx+JkXUfaseqOAQ==\n", 
+                    "height": 1794, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y0_W1080_H1794", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Sign up Log In to Acorns nicholasmullins@gmail.com Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Sign_up_Log_In_to_Acorns_nicholasmullins@gmail.com_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00006_5_android.widget.RelativeLayout.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_5_android.widget.RelativeLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.RelativeLayout", 
+                    "hash": "TKO1qpl5jPwz8Nba1THFew==\n", 
+                    "height": 1794, 
+                    "human_hash": "android.widget.RelativeLayout_X0_Y0_W1080_H1794", 
+                    "tag_name": "android.widget.RelativeLayout", 
+                    "text": "Sign up Log In to Acorns nicholasmullins@gmail.com Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.relativelayout", 
+                    "relativelayout", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Sign_up_Log_In_to_Acorns_nicholasmullins@gmail.com_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00006_6_android.widget.RelativeLayout.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_6_android.widget.RelativeLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.RelativeLayout", 
+                    "hash": "toz/GPZB7B44TerpNtIyeQ==\n", 
+                    "height": 1731, 
+                    "human_hash": "android.widget.RelativeLayout_X0_Y63_W1080_H1731", 
+                    "tag_name": "android.widget.RelativeLayout", 
+                    "text": "Sign up Log In to Acorns nicholasmullins@gmail.com Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 63
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.relativelayout", 
+                    "relativelayout", 
+                    "all_elems"
+                ], 
+                "text": [
+                    "Sign_up_Log_In_to_Acorns_nicholasmullins@gmail.com_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00006_7_android.widget.FrameLayout.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00006_7_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00005_7_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00004_7_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00003_7_android.widget.FrameLayout.png", 
+                    "iter_00000_step_00002_7_android.widget.FrameLayout.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.FrameLayout", 
+                    "hash": "8wQIGdnuecw8y7IfEwF72Q==\n", 
+                    "height": 91, 
+                    "human_hash": "android.widget.FrameLayout_X0_Y63_W1080_H91", 
+                    "tag_name": "android.widget.FrameLayout", 
+                    "text": "Sign up", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 63
+                }, 
+                "tags": [
+                    "layout", 
+                    "android.widget.framelayout", 
+                    "all_elems", 
+                    "framelayout"
+                ], 
+                "text": [
+                    "Sign_up"
+                ]
+            }, 
+            "iter_00000_step_00006_8_android.widget.TextView.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 5, 
+                "dupes": [
+                    "iter_00000_step_00006_8_android.widget.TextView.png", 
+                    "iter_00000_step_00005_8_android.widget.TextView.png", 
+                    "iter_00000_step_00004_8_android.widget.TextView.png", 
+                    "iter_00000_step_00003_8_android.widget.TextView.png", 
+                    "iter_00000_step_00002_8_android.widget.TextView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.TextView", 
+                    "hash": "4fKinhfGIYRtgy+5ZM6eGA==\n", 
+                    "height": 91, 
+                    "human_hash": "android.widget.TextView_X26_Y63_W164_H91", 
+                    "tag_name": "android.widget.TextView", 
+                    "text": "Sign up", 
+                    "width": 164, 
+                    "x": 26, 
+                    "y": 63
+                }, 
+                "tags": [
+                    "android.widget.textview", 
+                    "all_elems", 
+                    "textview", 
+                    "textbox"
+                ], 
+                "text": [
+                    "Sign_up"
+                ]
+            }, 
+            "iter_00000_step_00006_9_android.widget.ScrollView.png": {
+                "context_screen_img": "iter_00000_step_00006_screenshot.png", 
+                "dupe_count": 1, 
+                "dupes": [
+                    "iter_00000_step_00006_9_android.widget.ScrollView.png"
+                ], 
+                "elem_info": {
+                    "class": "android.widget.ScrollView", 
+                    "hash": "4Ono/S406qBEIZAAP1TZlQ==\n", 
+                    "height": 1640, 
+                    "human_hash": "android.widget.ScrollView_X0_Y154_W1080_H1640", 
+                    "tag_name": "android.widget.ScrollView", 
+                    "text": "Log In to Acorns nicholasmullins@gmail.com Email Password Show Log In Forgot Password? Version 3.11.39", 
+                    "width": 1080, 
+                    "x": 0, 
+                    "y": 154
+                }, 
+                "tags": [
+                    "android.widget.scrollview", 
+                    "all_elems", 
+                    "scrollview", 
+                    "scroll"
+                ], 
+                "text": [
+                    "Log_In_to_Acorns_nicholasmullins@gmail.com_Email_Password_Show_Log_In_Forgot_Password?_Version_3.11.39"
+                ]
+            }
+        }, 
+        "sorted_elems": [
+            "iter_00000_step_00003_5_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00003_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00005_3_android.widget.LinearLayout.png", 
+            "iter_00000_step_00005_5_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00005_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00001_6_android.widget.LinearLayout.png", 
+            "iter_00000_step_00006_5_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00006_4_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_6_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00005_6_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00003_6_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00003_9_android.widget.ScrollView.png", 
+            "iter_00000_step_00006_10_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_10_android.widget.FrameLayout.png", 
+            "iter_00000_step_00005_9_android.widget.ScrollView.png", 
+            "iter_00000_step_00006_9_android.widget.ScrollView.png", 
+            "iter_00000_step_00005_10_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_11_android.widget.LinearLayout.png", 
+            "iter_00000_step_00005_11_android.widget.LinearLayout.png", 
+            "iter_00000_step_00006_11_android.widget.LinearLayout.png", 
+            "iter_00000_step_00001_11_android.widget.ImageView.png", 
+            "iter_00000_step_00001_10_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_14_android.widget.LinearLayout.png", 
+            "iter_00000_step_00005_14_android.widget.LinearLayout.png", 
+            "iter_00000_step_00003_14_android.widget.LinearLayout.png", 
+            "iter_00000_step_00001_7_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_23_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00003_23_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00003_21_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00005_16_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00006_16_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00006_21_android.widget.RelativeLayout.png", 
+            "iter_00000_step_00006_22_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_15_android.widget.FrameLayout.png", 
+            "iter_00000_step_00005_15_android.widget.FrameLayout.png", 
+            "iter_00000_step_00003_22_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_24_android.widget.EditText.png", 
+            "iter_00000_step_00006_18_android.widget.EditText.png", 
+            "iter_00000_step_00006_17_android.widget.EditText.png", 
+            "iter_00000_step_00005_18_android.widget.EditText.png", 
+            "iter_00000_step_00003_24_android.widget.EditText.png", 
+            "iter_00000_step_00006_32_android.widget.ImageView.png", 
+            "iter_00000_step_00003_32_android.widget.ImageView.png", 
+            "iter_00000_step_00005_32_android.widget.ImageView.png", 
+            "iter_00000_step_00001_13_android.widget.TextView.png", 
+            "iter_00000_step_00001_14_android.widget.Button.png", 
+            "iter_00000_step_00005_29_android.widget.Button.png", 
+            "iter_00000_step_00006_29_android.widget.Button.png", 
+            "iter_00000_step_00006_31_android.widget.ImageView.png", 
+            "iter_00000_step_00006_28_android.widget.Button.png", 
+            "iter_00000_step_00005_28_android.widget.Button.png", 
+            "iter_00000_step_00006_7_android.widget.FrameLayout.png", 
+            "iter_00000_step_00006_13_android.widget.TextView.png", 
+            "iter_00000_step_00001_12_android.widget.TextView.png", 
+            "iter_00000_step_00006_30_android.widget.TextView.png", 
+            "iter_00000_step_00001_15_android.widget.TextView.png", 
+            "iter_00000_step_00006_12_android.widget.ImageView.png", 
+            "iter_00000_step_00001_8_android.widget.TextView.png", 
+            "iter_00000_step_00006_8_android.widget.TextView.png", 
+            "iter_00000_step_00001_9_android.widget.TextView.png", 
+            "iter_00000_step_00006_26_android.widget.TextView.png", 
+            "iter_00000_step_00006_25_android.widget.TextView.png", 
+            "iter_00000_step_00006_19_android.widget.TextView.png", 
+            "iter_00000_step_00006_27_android.view.View.png", 
+            "iter_00000_step_00006_20_android.view.View.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00001_10_android.widget.FrameLayout.png": [
+                "iter_00000_step_00001_10_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_10_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00001_11_android.widget.ImageView.png": [
+                "iter_00000_step_00001_11_android.widget.ImageView.png", 
+                "iter_00000_step_00000_11_android.widget.ImageView.png"
+            ], 
+            "iter_00000_step_00001_12_android.widget.TextView.png": [
+                "iter_00000_step_00001_12_android.widget.TextView.png", 
+                "iter_00000_step_00000_12_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00001_13_android.widget.TextView.png": [
+                "iter_00000_step_00001_13_android.widget.TextView.png", 
+                "iter_00000_step_00000_13_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00001_14_android.widget.Button.png": [
+                "iter_00000_step_00001_14_android.widget.Button.png", 
+                "iter_00000_step_00000_14_android.widget.Button.png"
+            ], 
+            "iter_00000_step_00001_15_android.widget.TextView.png": [
+                "iter_00000_step_00001_15_android.widget.TextView.png", 
+                "iter_00000_step_00000_15_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00001_5_android.widget.FrameLayout.png": [
+                "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_2_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_0_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_2_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_0_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00001_6_android.widget.LinearLayout.png": [
+                "iter_00000_step_00001_6_android.widget.LinearLayout.png", 
+                "iter_00000_step_00001_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00001_1_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_6_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00000_1_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00001_7_android.widget.FrameLayout.png": [
+                "iter_00000_step_00001_7_android.widget.FrameLayout.png", 
+                "iter_00000_step_00000_7_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00001_8_android.widget.TextView.png": [
+                "iter_00000_step_00001_8_android.widget.TextView.png", 
+                "iter_00000_step_00000_8_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00001_9_android.widget.TextView.png": [
+                "iter_00000_step_00001_9_android.widget.TextView.png", 
+                "iter_00000_step_00000_9_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00003_10_android.widget.FrameLayout.png": [
+                "iter_00000_step_00003_10_android.widget.FrameLayout.png", 
+                "iter_00000_step_00002_10_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00003_11_android.widget.LinearLayout.png": [
+                "iter_00000_step_00003_11_android.widget.LinearLayout.png", 
+                "iter_00000_step_00002_11_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00003_14_android.widget.LinearLayout.png": [
+                "iter_00000_step_00003_14_android.widget.LinearLayout.png", 
+                "iter_00000_step_00002_14_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00003_21_android.widget.RelativeLayout.png": [
+                "iter_00000_step_00003_21_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00002_21_android.widget.RelativeLayout.png"
+            ], 
+            "iter_00000_step_00003_22_android.widget.FrameLayout.png": [
+                "iter_00000_step_00003_22_android.widget.FrameLayout.png", 
+                "iter_00000_step_00002_22_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00003_23_android.widget.RelativeLayout.png": [
+                "iter_00000_step_00003_23_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00002_23_android.widget.RelativeLayout.png"
+            ], 
+            "iter_00000_step_00003_24_android.widget.EditText.png": [
+                "iter_00000_step_00003_24_android.widget.EditText.png", 
+                "iter_00000_step_00002_24_android.widget.EditText.png"
+            ], 
+            "iter_00000_step_00003_32_android.widget.ImageView.png": [
+                "iter_00000_step_00003_32_android.widget.ImageView.png", 
+                "iter_00000_step_00002_32_android.widget.ImageView.png"
+            ], 
+            "iter_00000_step_00003_3_android.widget.LinearLayout.png": [
+                "iter_00000_step_00003_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00003_1_android.widget.LinearLayout.png", 
+                "iter_00000_step_00002_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00002_1_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00003_4_android.widget.FrameLayout.png": [
+                "iter_00000_step_00003_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00003_2_android.widget.FrameLayout.png", 
+                "iter_00000_step_00003_0_android.widget.FrameLayout.png", 
+                "iter_00000_step_00002_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00002_2_android.widget.FrameLayout.png", 
+                "iter_00000_step_00002_0_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00003_5_android.widget.RelativeLayout.png": [
+                "iter_00000_step_00003_5_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00002_5_android.widget.RelativeLayout.png"
+            ], 
+            "iter_00000_step_00003_6_android.widget.RelativeLayout.png": [
+                "iter_00000_step_00003_6_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00002_6_android.widget.RelativeLayout.png"
+            ], 
+            "iter_00000_step_00003_9_android.widget.ScrollView.png": [
+                "iter_00000_step_00003_9_android.widget.ScrollView.png", 
+                "iter_00000_step_00002_9_android.widget.ScrollView.png"
+            ], 
+            "iter_00000_step_00005_10_android.widget.FrameLayout.png": [
+                "iter_00000_step_00005_10_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_10_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00005_11_android.widget.LinearLayout.png": [
+                "iter_00000_step_00005_11_android.widget.LinearLayout.png", 
+                "iter_00000_step_00004_11_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00005_14_android.widget.LinearLayout.png": [
+                "iter_00000_step_00005_14_android.widget.LinearLayout.png", 
+                "iter_00000_step_00004_14_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00005_15_android.widget.FrameLayout.png": [
+                "iter_00000_step_00005_15_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_15_android.widget.FrameLayout.png", 
+                "iter_00000_step_00003_15_android.widget.FrameLayout.png", 
+                "iter_00000_step_00002_15_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00005_16_android.widget.RelativeLayout.png": [
+                "iter_00000_step_00005_16_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00004_16_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00003_16_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00002_16_android.widget.RelativeLayout.png"
+            ], 
+            "iter_00000_step_00005_18_android.widget.EditText.png": [
+                "iter_00000_step_00005_18_android.widget.EditText.png", 
+                "iter_00000_step_00005_17_android.widget.EditText.png", 
+                "iter_00000_step_00004_18_android.widget.EditText.png", 
+                "iter_00000_step_00004_17_android.widget.EditText.png", 
+                "iter_00000_step_00003_18_android.widget.EditText.png", 
+                "iter_00000_step_00003_17_android.widget.EditText.png", 
+                "iter_00000_step_00002_18_android.widget.EditText.png", 
+                "iter_00000_step_00002_17_android.widget.EditText.png"
+            ], 
+            "iter_00000_step_00005_28_android.widget.Button.png": [
+                "iter_00000_step_00005_28_android.widget.Button.png", 
+                "iter_00000_step_00004_28_android.widget.Button.png", 
+                "iter_00000_step_00003_28_android.widget.Button.png", 
+                "iter_00000_step_00002_28_android.widget.Button.png"
+            ], 
+            "iter_00000_step_00005_29_android.widget.Button.png": [
+                "iter_00000_step_00005_29_android.widget.Button.png", 
+                "iter_00000_step_00004_29_android.widget.Button.png"
+            ], 
+            "iter_00000_step_00005_32_android.widget.ImageView.png": [
+                "iter_00000_step_00005_32_android.widget.ImageView.png", 
+                "iter_00000_step_00004_32_android.widget.ImageView.png"
+            ], 
+            "iter_00000_step_00005_3_android.widget.LinearLayout.png": [
+                "iter_00000_step_00005_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00005_1_android.widget.LinearLayout.png", 
+                "iter_00000_step_00004_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00004_1_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00005_4_android.widget.FrameLayout.png": [
+                "iter_00000_step_00005_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00005_2_android.widget.FrameLayout.png", 
+                "iter_00000_step_00005_0_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_2_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_0_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00005_5_android.widget.RelativeLayout.png": [
+                "iter_00000_step_00005_5_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00004_5_android.widget.RelativeLayout.png"
+            ], 
+            "iter_00000_step_00005_6_android.widget.RelativeLayout.png": [
+                "iter_00000_step_00005_6_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00004_6_android.widget.RelativeLayout.png"
+            ], 
+            "iter_00000_step_00005_9_android.widget.ScrollView.png": [
+                "iter_00000_step_00005_9_android.widget.ScrollView.png", 
+                "iter_00000_step_00004_9_android.widget.ScrollView.png"
+            ], 
+            "iter_00000_step_00006_10_android.widget.FrameLayout.png": [
+                "iter_00000_step_00006_10_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00006_11_android.widget.LinearLayout.png": [
+                "iter_00000_step_00006_11_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00006_12_android.widget.ImageView.png": [
+                "iter_00000_step_00006_12_android.widget.ImageView.png", 
+                "iter_00000_step_00005_12_android.widget.ImageView.png", 
+                "iter_00000_step_00004_12_android.widget.ImageView.png", 
+                "iter_00000_step_00003_12_android.widget.ImageView.png", 
+                "iter_00000_step_00002_12_android.widget.ImageView.png"
+            ], 
+            "iter_00000_step_00006_13_android.widget.TextView.png": [
+                "iter_00000_step_00006_13_android.widget.TextView.png", 
+                "iter_00000_step_00005_13_android.widget.TextView.png", 
+                "iter_00000_step_00004_13_android.widget.TextView.png", 
+                "iter_00000_step_00003_13_android.widget.TextView.png", 
+                "iter_00000_step_00002_13_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00006_14_android.widget.LinearLayout.png": [
+                "iter_00000_step_00006_14_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00006_15_android.widget.FrameLayout.png": [
+                "iter_00000_step_00006_15_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00006_16_android.widget.RelativeLayout.png": [
+                "iter_00000_step_00006_16_android.widget.RelativeLayout.png"
+            ], 
+            "iter_00000_step_00006_17_android.widget.EditText.png": [
+                "iter_00000_step_00006_17_android.widget.EditText.png"
+            ], 
+            "iter_00000_step_00006_18_android.widget.EditText.png": [
+                "iter_00000_step_00006_18_android.widget.EditText.png"
+            ], 
+            "iter_00000_step_00006_19_android.widget.TextView.png": [
+                "iter_00000_step_00006_19_android.widget.TextView.png", 
+                "iter_00000_step_00005_19_android.widget.TextView.png", 
+                "iter_00000_step_00004_19_android.widget.TextView.png", 
+                "iter_00000_step_00003_19_android.widget.TextView.png", 
+                "iter_00000_step_00002_19_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00006_20_android.view.View.png": [
+                "iter_00000_step_00006_20_android.view.View.png", 
+                "iter_00000_step_00005_20_android.view.View.png", 
+                "iter_00000_step_00004_20_android.view.View.png", 
+                "iter_00000_step_00003_20_android.view.View.png", 
+                "iter_00000_step_00002_20_android.view.View.png"
+            ], 
+            "iter_00000_step_00006_21_android.widget.RelativeLayout.png": [
+                "iter_00000_step_00006_21_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00005_21_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00004_21_android.widget.RelativeLayout.png"
+            ], 
+            "iter_00000_step_00006_22_android.widget.FrameLayout.png": [
+                "iter_00000_step_00006_22_android.widget.FrameLayout.png", 
+                "iter_00000_step_00005_22_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_22_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00006_23_android.widget.RelativeLayout.png": [
+                "iter_00000_step_00006_23_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00005_23_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00004_23_android.widget.RelativeLayout.png"
+            ], 
+            "iter_00000_step_00006_24_android.widget.EditText.png": [
+                "iter_00000_step_00006_24_android.widget.EditText.png", 
+                "iter_00000_step_00005_24_android.widget.EditText.png", 
+                "iter_00000_step_00004_24_android.widget.EditText.png"
+            ], 
+            "iter_00000_step_00006_25_android.widget.TextView.png": [
+                "iter_00000_step_00006_25_android.widget.TextView.png", 
+                "iter_00000_step_00005_25_android.widget.TextView.png", 
+                "iter_00000_step_00004_25_android.widget.TextView.png", 
+                "iter_00000_step_00003_25_android.widget.TextView.png", 
+                "iter_00000_step_00002_25_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00006_26_android.widget.TextView.png": [
+                "iter_00000_step_00006_26_android.widget.TextView.png", 
+                "iter_00000_step_00005_26_android.widget.TextView.png", 
+                "iter_00000_step_00004_26_android.widget.TextView.png", 
+                "iter_00000_step_00003_26_android.widget.TextView.png", 
+                "iter_00000_step_00002_26_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00006_27_android.view.View.png": [
+                "iter_00000_step_00006_27_android.view.View.png", 
+                "iter_00000_step_00005_27_android.view.View.png", 
+                "iter_00000_step_00004_27_android.view.View.png", 
+                "iter_00000_step_00003_27_android.view.View.png", 
+                "iter_00000_step_00002_27_android.view.View.png"
+            ], 
+            "iter_00000_step_00006_28_android.widget.Button.png": [
+                "iter_00000_step_00006_28_android.widget.Button.png"
+            ], 
+            "iter_00000_step_00006_29_android.widget.Button.png": [
+                "iter_00000_step_00006_29_android.widget.Button.png", 
+                "iter_00000_step_00003_29_android.widget.Button.png", 
+                "iter_00000_step_00002_29_android.widget.Button.png"
+            ], 
+            "iter_00000_step_00006_30_android.widget.TextView.png": [
+                "iter_00000_step_00006_30_android.widget.TextView.png", 
+                "iter_00000_step_00005_30_android.widget.TextView.png", 
+                "iter_00000_step_00004_30_android.widget.TextView.png", 
+                "iter_00000_step_00003_30_android.widget.TextView.png", 
+                "iter_00000_step_00002_30_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00006_31_android.widget.ImageView.png": [
+                "iter_00000_step_00006_31_android.widget.ImageView.png", 
+                "iter_00000_step_00005_31_android.widget.ImageView.png", 
+                "iter_00000_step_00004_31_android.widget.ImageView.png", 
+                "iter_00000_step_00003_31_android.widget.ImageView.png", 
+                "iter_00000_step_00002_31_android.widget.ImageView.png"
+            ], 
+            "iter_00000_step_00006_32_android.widget.ImageView.png": [
+                "iter_00000_step_00006_32_android.widget.ImageView.png"
+            ], 
+            "iter_00000_step_00006_3_android.widget.LinearLayout.png": [
+                "iter_00000_step_00006_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00006_1_android.widget.LinearLayout.png"
+            ], 
+            "iter_00000_step_00006_4_android.widget.FrameLayout.png": [
+                "iter_00000_step_00006_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_2_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_0_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00006_5_android.widget.RelativeLayout.png": [
+                "iter_00000_step_00006_5_android.widget.RelativeLayout.png"
+            ], 
+            "iter_00000_step_00006_6_android.widget.RelativeLayout.png": [
+                "iter_00000_step_00006_6_android.widget.RelativeLayout.png"
+            ], 
+            "iter_00000_step_00006_7_android.widget.FrameLayout.png": [
+                "iter_00000_step_00006_7_android.widget.FrameLayout.png", 
+                "iter_00000_step_00005_7_android.widget.FrameLayout.png", 
+                "iter_00000_step_00004_7_android.widget.FrameLayout.png", 
+                "iter_00000_step_00003_7_android.widget.FrameLayout.png", 
+                "iter_00000_step_00002_7_android.widget.FrameLayout.png"
+            ], 
+            "iter_00000_step_00006_8_android.widget.TextView.png": [
+                "iter_00000_step_00006_8_android.widget.TextView.png", 
+                "iter_00000_step_00005_8_android.widget.TextView.png", 
+                "iter_00000_step_00004_8_android.widget.TextView.png", 
+                "iter_00000_step_00003_8_android.widget.TextView.png", 
+                "iter_00000_step_00002_8_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00006_9_android.widget.ScrollView.png": [
+                "iter_00000_step_00006_9_android.widget.ScrollView.png"
+            ]
+        }
+    }, 
+    "screens": {
+        "dupe_to_master_key": {
+            "iter_00000_step_00000_screenshot.png": "iter_00000_step_00000_screenshot.png", 
+            "iter_00000_step_00001_screenshot.png": "iter_00000_step_00000_screenshot.png", 
+            "iter_00000_step_00002_screenshot.png": "iter_00000_step_00003_screenshot.png", 
+            "iter_00000_step_00003_screenshot.png": "iter_00000_step_00003_screenshot.png", 
+            "iter_00000_step_00004_screenshot.png": "iter_00000_step_00004_screenshot.png", 
+            "iter_00000_step_00005_screenshot.png": "iter_00000_step_00004_screenshot.png", 
+            "iter_00000_step_00006_screenshot.png": "iter_00000_step_00006_screenshot.png"
+        }, 
+        "screens_to_elems": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_6_android.widget.LinearLayout.png", 
+                "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_6_android.widget.LinearLayout.png", 
+                "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_5_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_6_android.widget.LinearLayout.png", 
+                "iter_00000_step_00001_7_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_8_android.widget.TextView.png", 
+                "iter_00000_step_00001_9_android.widget.TextView.png", 
+                "iter_00000_step_00001_10_android.widget.FrameLayout.png", 
+                "iter_00000_step_00001_11_android.widget.ImageView.png", 
+                "iter_00000_step_00001_12_android.widget.TextView.png", 
+                "iter_00000_step_00001_13_android.widget.TextView.png", 
+                "iter_00000_step_00001_14_android.widget.Button.png", 
+                "iter_00000_step_00001_15_android.widget.TextView.png"
+            ], 
+            "iter_00000_step_00003_screenshot.png": [
+                "iter_00000_step_00003_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00003_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00003_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00003_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00003_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00003_5_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00003_6_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00006_7_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_8_android.widget.TextView.png", 
+                "iter_00000_step_00003_9_android.widget.ScrollView.png", 
+                "iter_00000_step_00003_10_android.widget.FrameLayout.png", 
+                "iter_00000_step_00003_11_android.widget.LinearLayout.png", 
+                "iter_00000_step_00006_12_android.widget.ImageView.png", 
+                "iter_00000_step_00006_13_android.widget.TextView.png", 
+                "iter_00000_step_00003_14_android.widget.LinearLayout.png", 
+                "iter_00000_step_00005_15_android.widget.FrameLayout.png", 
+                "iter_00000_step_00005_16_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00005_18_android.widget.EditText.png", 
+                "iter_00000_step_00005_18_android.widget.EditText.png", 
+                "iter_00000_step_00006_19_android.widget.TextView.png", 
+                "iter_00000_step_00006_20_android.view.View.png", 
+                "iter_00000_step_00003_21_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00003_22_android.widget.FrameLayout.png", 
+                "iter_00000_step_00003_23_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00003_24_android.widget.EditText.png", 
+                "iter_00000_step_00006_25_android.widget.TextView.png", 
+                "iter_00000_step_00006_26_android.widget.TextView.png", 
+                "iter_00000_step_00006_27_android.view.View.png", 
+                "iter_00000_step_00005_28_android.widget.Button.png", 
+                "iter_00000_step_00006_29_android.widget.Button.png", 
+                "iter_00000_step_00006_30_android.widget.TextView.png", 
+                "iter_00000_step_00006_31_android.widget.ImageView.png", 
+                "iter_00000_step_00003_32_android.widget.ImageView.png"
+            ], 
+            "iter_00000_step_00004_screenshot.png": [
+                "iter_00000_step_00005_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00005_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00005_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00005_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00005_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00005_5_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00005_6_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00006_7_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_8_android.widget.TextView.png", 
+                "iter_00000_step_00005_9_android.widget.ScrollView.png", 
+                "iter_00000_step_00005_10_android.widget.FrameLayout.png", 
+                "iter_00000_step_00005_11_android.widget.LinearLayout.png", 
+                "iter_00000_step_00006_12_android.widget.ImageView.png", 
+                "iter_00000_step_00006_13_android.widget.TextView.png", 
+                "iter_00000_step_00005_14_android.widget.LinearLayout.png", 
+                "iter_00000_step_00005_15_android.widget.FrameLayout.png", 
+                "iter_00000_step_00005_16_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00005_18_android.widget.EditText.png", 
+                "iter_00000_step_00005_18_android.widget.EditText.png", 
+                "iter_00000_step_00006_19_android.widget.TextView.png", 
+                "iter_00000_step_00006_20_android.view.View.png", 
+                "iter_00000_step_00006_21_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00006_22_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_23_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00006_24_android.widget.EditText.png", 
+                "iter_00000_step_00006_25_android.widget.TextView.png", 
+                "iter_00000_step_00006_26_android.widget.TextView.png", 
+                "iter_00000_step_00006_27_android.view.View.png", 
+                "iter_00000_step_00005_28_android.widget.Button.png", 
+                "iter_00000_step_00005_29_android.widget.Button.png", 
+                "iter_00000_step_00006_30_android.widget.TextView.png", 
+                "iter_00000_step_00006_31_android.widget.ImageView.png", 
+                "iter_00000_step_00005_32_android.widget.ImageView.png"
+            ], 
+            "iter_00000_step_00006_screenshot.png": [
+                "iter_00000_step_00006_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00006_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_3_android.widget.LinearLayout.png", 
+                "iter_00000_step_00006_4_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_5_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00006_6_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00006_7_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_8_android.widget.TextView.png", 
+                "iter_00000_step_00006_9_android.widget.ScrollView.png", 
+                "iter_00000_step_00006_10_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_11_android.widget.LinearLayout.png", 
+                "iter_00000_step_00006_12_android.widget.ImageView.png", 
+                "iter_00000_step_00006_13_android.widget.TextView.png", 
+                "iter_00000_step_00006_14_android.widget.LinearLayout.png", 
+                "iter_00000_step_00006_15_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_16_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00006_17_android.widget.EditText.png", 
+                "iter_00000_step_00006_18_android.widget.EditText.png", 
+                "iter_00000_step_00006_19_android.widget.TextView.png", 
+                "iter_00000_step_00006_20_android.view.View.png", 
+                "iter_00000_step_00006_21_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00006_22_android.widget.FrameLayout.png", 
+                "iter_00000_step_00006_23_android.widget.RelativeLayout.png", 
+                "iter_00000_step_00006_24_android.widget.EditText.png", 
+                "iter_00000_step_00006_25_android.widget.TextView.png", 
+                "iter_00000_step_00006_26_android.widget.TextView.png", 
+                "iter_00000_step_00006_27_android.view.View.png", 
+                "iter_00000_step_00006_28_android.widget.Button.png", 
+                "iter_00000_step_00006_29_android.widget.Button.png", 
+                "iter_00000_step_00006_30_android.widget.TextView.png", 
+                "iter_00000_step_00006_31_android.widget.ImageView.png", 
+                "iter_00000_step_00006_32_android.widget.ImageView.png"
+            ]
+        }, 
+        "screens_to_infos": {
+            "iter_00000_step_00000_screenshot.png": {
+                "dupe_count": [
+                    2
+                ], 
+                "dupes": [
+                    "iter_00000_step_00000_screenshot.png", 
+                    "iter_00000_step_00001_screenshot.png"
+                ], 
+                "tags": [
+                    "android.widget.button", 
+                    "android.widget.textview", 
+                    "android.widget.imageview", 
+                    "button", 
+                    "framelayout", 
+                    "imageview", 
+                    "all_screens", 
+                    "android.widget.framelayout", 
+                    "linearlayout", 
+                    "textview", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "", 
+                    "log_in", 
+                    "card_issued_by_lincoln_savings_bank,_member_fdic", 
+                    "get_started", 
+                    "we_help_you_grow_your_money", 
+                    "welcome_to_acorns_log_in_we_help_you_grow_your_money_get_your_financial_wellness_system._invest_spare_change,_save_for_retirement,_save_and_invest_when_you_spend,_earn_bonus_investments_and_much_more._get_started_card_issued_by_lincoln_savings_bank,_member_fdic", 
+                    "welcome_to_acorns_log_in", 
+                    "get_your_financial_wellness_system._invest_spare_change,_save_for_retirement,_save_and_invest_when_you_spend,_earn_bonus_investments_and_much_more.", 
+                    "welcome_to_acorns"
+                ]
+            }, 
+            "iter_00000_step_00003_screenshot.png": {
+                "dupe_count": [
+                    2
+                ], 
+                "dupes": [
+                    "iter_00000_step_00003_screenshot.png", 
+                    "iter_00000_step_00002_screenshot.png"
+                ], 
+                "tags": [
+                    "android.widget.button", 
+                    "android.view.view", 
+                    "android.widget.framelayout", 
+                    "android.widget.imageview", 
+                    "imageview", 
+                    "edittext", 
+                    "button", 
+                    "android.widget.scrollview", 
+                    "scrollview", 
+                    "framelayout", 
+                    "android.widget.textview", 
+                    "all_screens", 
+                    "relativelayout", 
+                    "android.widget.relativelayout", 
+                    "android.widget.edittext", 
+                    "linearlayout", 
+                    "textview", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "", 
+                    "log_in", 
+                    "log_in_to_acorns", 
+                    "show", 
+                    "password_show", 
+                    "email_password_show_log_in_forgot_password?", 
+                    "sign_up_log_in_to_acorns_email_password_show_log_in_forgot_password?_version_3.11.39", 
+                    "version_3.11.39", 
+                    "forgot_password?", 
+                    "sign_up", 
+                    "password", 
+                    "email", 
+                    "log_in_to_acorns_email_password_show_log_in_forgot_password?_version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00004_screenshot.png": {
+                "dupe_count": [
+                    2
+                ], 
+                "dupes": [
+                    "iter_00000_step_00004_screenshot.png", 
+                    "iter_00000_step_00005_screenshot.png"
+                ], 
+                "tags": [
+                    "android.widget.button", 
+                    "android.view.view", 
+                    "android.widget.framelayout", 
+                    "android.widget.imageview", 
+                    "imageview", 
+                    "edittext", 
+                    "button", 
+                    "android.widget.scrollview", 
+                    "scrollview", 
+                    "framelayout", 
+                    "android.widget.textview", 
+                    "all_screens", 
+                    "relativelayout", 
+                    "android.widget.relativelayout", 
+                    "android.widget.edittext", 
+                    "linearlayout", 
+                    "textview", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "", 
+                    "log_in", 
+                    "log_in_to_acorns", 
+                    "show", 
+                    "password_show", 
+                    "email_password_show_log_in_forgot_password?", 
+                    "sign_up_log_in_to_acorns_email_password_show_log_in_forgot_password?_version_3.11.39", 
+                    "version_3.11.39", 
+                    "forgot_password?", 
+                    "sign_up", 
+                    "password", 
+                    "email", 
+                    "log_in_to_acorns_email_password_show_log_in_forgot_password?_version_3.11.39"
+                ]
+            }, 
+            "iter_00000_step_00006_screenshot.png": {
+                "dupe_count": [
+                    1
+                ], 
+                "dupes": [
+                    "iter_00000_step_00006_screenshot.png"
+                ], 
+                "tags": [
+                    "android.widget.button", 
+                    "android.view.view", 
+                    "android.widget.framelayout", 
+                    "android.widget.imageview", 
+                    "imageview", 
+                    "edittext", 
+                    "button", 
+                    "android.widget.scrollview", 
+                    "scrollview", 
+                    "framelayout", 
+                    "android.widget.textview", 
+                    "all_screens", 
+                    "relativelayout", 
+                    "android.widget.relativelayout", 
+                    "android.widget.edittext", 
+                    "linearlayout", 
+                    "textview", 
+                    "android.widget.linearlayout"
+                ], 
+                "text": [
+                    "", 
+                    "password_show", 
+                    "log_in", 
+                    "log_in_to_acorns", 
+                    "nicholasmullins@gmail.com_email", 
+                    "show", 
+                    "nicholasmullins@gmail.com", 
+                    "sign_up_log_in_to_acorns_nicholasmullins@gmail.com_email_password_show_log_in_forgot_password?_version_3.11.39", 
+                    "nicholasmullins@gmail.com_email_password_show_log_in_forgot_password?", 
+                    "forgot_password?", 
+                    "version_3.11.39", 
+                    "sign_up", 
+                    "password", 
+                    "email", 
+                    "log_in_to_acorns_nicholasmullins@gmail.com_email_password_show_log_in_forgot_password?_version_3.11.39"
+                ]
+            }
+        }, 
+        "sorted_screens": [
+            "iter_00000_step_00006_screenshot.png", 
+            "iter_00000_step_00003_screenshot.png", 
+            "iter_00000_step_00004_screenshot.png", 
+            "iter_00000_step_00000_screenshot.png"
+        ], 
+        "uniques_to_dupes": {
+            "iter_00000_step_00000_screenshot.png": [
+                "iter_00000_step_00000_screenshot.png", 
+                "iter_00000_step_00001_screenshot.png"
+            ], 
+            "iter_00000_step_00003_screenshot.png": [
+                "iter_00000_step_00003_screenshot.png", 
+                "iter_00000_step_00002_screenshot.png"
+            ], 
+            "iter_00000_step_00004_screenshot.png": [
+                "iter_00000_step_00004_screenshot.png", 
+                "iter_00000_step_00005_screenshot.png"
+            ], 
+            "iter_00000_step_00006_screenshot.png": [
+                "iter_00000_step_00006_screenshot.png"
+            ]
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "elems": {
+        "iter_00000_step_00001_14_android.widget.Button.png": [
+            "btn_get_started"
+        ], 
+        "iter_00000_step_00006_19_android.widget.EditText.png": [], 
+        "iter_00000_step_00009_26_android.widget.EditText.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00013_46_android.view.View.png": [
+            "tgl_agreetos"
+        ], 
+        "iter_00000_step_00015_19_android.widget.EditText.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00015_26_android.widget.EditText.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00015_48_android.widget.Button.png": [
+            "btn_create_account"
+        ], 
+        "iter_00000_step_00057_47_android.widget.Button.png": [
+            "btn_log_out"
+        ], 
+        "iter_00000_step_00061_24_android.widget.EditText.png": [], 
+        "iter_00000_step_00063_18_android.widget.EditText.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00063_24_android.widget.EditText.png": [
+            "inp_password"
+        ], 
+        "iter_00000_step_00065_17_android.widget.EditText.png": [
+            "inp_email"
+        ], 
+        "iter_00000_step_00065_28_android.widget.Button.png": [
+            "btn_login"
+        ], 
+        "iter_00000_step_00071_9_android.widget.ImageView.png": [
+            "btn_back_account"
+        ], 
+        "iter_00000_step_00073_25_android.widget.TextView.png": [
+            "btn_my_settings"
+        ], 
+        "iter_00000_step_00073_9_android.widget.ImageView.png": [
+            "btn_exit_settings"
+        ], 
+        "iter_00000_step_00074_76_android.widget.ImageView.png": [
+            "btn_account_settings"
+        ]
+    }, 
+    "screens": {}
+}
